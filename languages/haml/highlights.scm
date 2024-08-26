@@ -1,0 +1,9 @@
+(tag) @tag
+(attribute) @attribute
+(ruby_block) @keyword
+(comment) @comment
+(string) @string
+(doctype) @keyword
+("%" @punctuation.delimiter)
+("#" @punctuation.delimiter)
+("." @punctuation.delimiter)

@@ -1,0 +1,4 @@
+name = "Haml"
+grammar = "haml"
+path_suffixes = ["haml"]
+line_comments = ["-#"]

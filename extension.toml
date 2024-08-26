@@ -1,0 +1,12 @@
+id = "haml"
+name = "Haml"
+version = "0.0.1"
+schema_version = 1
+
+description = "Haml template support."
+repository = "https://github.com/croaky/zed-haml"
+authors = ["croaky"]
+
+[grammars.haml]
+repository = "https://github.com/croaky/tree-sitter-haml"
+rev = "9fb2b88dc174bf907a53eaa6c417b4f4a56f1667"
