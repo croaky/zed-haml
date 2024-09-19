@@ -1,4 +1,4 @@
 name = "Haml"
 grammar = "haml"
-path_suffixes = ["haml"]
+path_suffixes = ["haml", "html.haml"]
 line_comments = ["-#"]

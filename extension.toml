@@ -1,11 +1,10 @@
-id = "haml"
+id = "zed-haml"
 name = "Haml"
 version = "0.0.1"
 schema_version = 1
-
 description = "Haml template support."
 repository = "https://github.com/croaky/zed-haml"
-authors = ["croaky"]
+authors = ["Dan Croak <dan@statusok.com>"]
 
 [grammars.haml]
 repository = "https://github.com/croaky/tree-sitter-haml"
